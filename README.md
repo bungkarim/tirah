@@ -1,2 +1,2 @@
-# tutorta
-Semoga jadi duit ya Allah. Aamiin.
+#tirah
+This repository is dedicated for my lovely dear, Tirah
