@@ -1,2 +1,2 @@
 #tirah
-This repository is dedicated for my lovely dear, Tirah
+This repository is dedicated to my lovely dear, Tirah
