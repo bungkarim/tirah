@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+html,
+body {
+  font-family: 'Modak', sans-serif;
+  background: #b4366e;
+  height: 100%;
+}
+.container {
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.text {
+  font-family: 'Modak', sans-serif;
+  font-weight: 400;
+  font-size: 28px;
+  color: #fafafa;
+}
+.dud {
+  font-family: 'Modak', sans-serif;
+  color: #ed8eb8;
+}
